@@ -15,3 +15,5 @@ async def hello(ctx):
     await ctx.send('Дарова')
 
 token = os.environ.get('Bot Token')
+
+Bot.run(str(token))

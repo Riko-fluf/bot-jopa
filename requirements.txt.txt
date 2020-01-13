@@ -1,4 +1,0 @@
-discord.py
-aiohttp
-webaocketa
-chardet

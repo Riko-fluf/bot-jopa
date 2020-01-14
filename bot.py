@@ -11,7 +11,7 @@ Bot = commands.Bot(command_prefix= '\')
 @Bot.command()
 async def hello(ctx):
     author = ctx.message.author
-    await ctx.send('Дарова')
+    await ctx.send('Дарова Ебаня Жопа в работе')
 
 token = os.environ.get('token')
 

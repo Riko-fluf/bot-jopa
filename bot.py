@@ -15,4 +15,4 @@ async def hello(ctx):
 
 token = os.environ.get('token')
 
-bot.run(str(token))
+bot.run(token)

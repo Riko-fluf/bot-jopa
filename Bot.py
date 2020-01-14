@@ -13,6 +13,6 @@ async def hello(ctx):
     author = ctx.message.author
     await ctx.send('Дарова')
 
-token = os 
+token = os.environ.get('BOT_TOKEN')
 
-Bot.run(str(token))
+bot.run(str(token))

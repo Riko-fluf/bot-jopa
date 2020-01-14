@@ -11,4 +11,4 @@ async def hello(ctx):
     author = ctx.message.author
     await ctx.send('Дарова')
 
-Bot.run('NjQ0MjI2MjQ1NzcyNzA1Nzkz.XhztrA.UlNiMmxRghOiZUiqGxdyBUd95Vg')
+Bot.run('NjQ0MjI2MjQ1NzcyNzA1Nzkz.Xh0G1g.O45AvW5_Ssy-dDZnXvi0vI4dd5s')
